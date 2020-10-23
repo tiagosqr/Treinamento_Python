@@ -1,4 +1,5 @@
-# Jogo da velha
+# Jogo da velha contra a maquina selecionando posição aleatória que está livre
+# Para limpar a tela executar no terminal ou console
 import os
 import random
 import time
